@@ -5,6 +5,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 ## PyBer Analysis Results
 - Analysis showed large disparities between city types over the course of the quarterly period (Fig 1).
 
+
     <Figcaption><i>Fig 1. PyBer Ride Sharing Data</i></Figcaption>
 
 ![Fig 1. PyBer Ride Sharing Data](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/analysis/Fig1.png)
@@ -17,6 +18,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 - PyBer provided 2,375 total rides over the course of the analysis period.
 - Urban types made up 68.4% of total rides. Suburban types comprised 26.3% and rural types covered the remaining 5.3% of total rides (Fig 1).
 
+
     <Figcaption><i>Fig 2. % Total Rides by City Type</i></Figcaption>
 
 ![Fig 2. % Total Rides by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/analysis/Fig6.png)
@@ -24,6 +26,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 ### Drivers by City Type
 - A total of 2,973 PyBer drivers were registered during the analysis period.
 - Urban types made up 80.9% of all PyBer drivers. Suburban types comprised 16.5% and rural types covered the remaining 2.6% (Fig 2).
+
 
     <Figcaption><i>Fig 3. % Total Drivers by City Type</i></Figcaption>
 
@@ -33,12 +36,14 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 - PyBer collected a total of $63,538.64 in fares during the analysis period.
 - Urban types made up 62.7% of total fares. Suburban types comprised 30.5% and rural types covered the remaining 6.8% of total fares (Fig 3).
 
+
     <Figcaption><i>Fig 4. % Total Fares by City Type</i></Figcaption>
 
 ![Fig 4. % Total Fares by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/analysis/Fig5.png)
 
 ### Average Fare per Rider/Driver 
 - The average fare per rider/driver by city type listed in Table 1. Script and dataframes used to calculate summary data can be found in the [jupyter notebook for the project](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/PyBer_Challenge.ipynb).
+
 
     <Tablecaption><i>Table 1. PyBer Data Summary</i></Tablecaption>
 
@@ -54,6 +59,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 
 - Total fare earning were divided into weekly bins using resampling methods. - Comparing city types by total weekly earnings shows that urban environments not only top earning rankings on a quartly basis, but on a weekly basis as well (Fig 4).
 - By comparison, weekly total fares for suburban city types were roughly half that of urban. Weekly fare for rural cities tended to be less than a 1/10th of weekly fares for urban cities. 
+
 
     <Figcaption><i>Fig 5. Total Weekly Fare by City Type</i></Figcaption>
 
