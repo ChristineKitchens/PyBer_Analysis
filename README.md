@@ -8,7 +8,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 
     <Figcaption><i>Fig 1. PyBer Ride Sharing Data</i></Figcaption>
 
-![Fig 1. PyBer Ride Sharing Data](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/analysis/Fig1.png)
+![Fig 1. PyBer Ride Sharing Data](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/d63848817d1f1347bb6695448eec88d5e27f7d92/analysis/Fig1.png)
 
 
 - Across the 3 city types, urban types overwhemingly have the highest total number of rides, drivers, and fares.
