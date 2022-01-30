@@ -78,6 +78,6 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
   - [city_data.csv](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/Resources/city_data.csv)
   - [ride_data.csv](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/Resources/ride_data.csv)
 - Analysis Script: 
-  - [PyBer.ipynb](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/PyBer_Challenge.ipynb) (Figs 1-4) 
-  - [PyBer_Challenge.ipynb](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/PyBer.ipynb) (Figs 5 and Table 1)
+  - [PyBer.ipynb](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/PyBer.ipynb) (Figs 1-4)
+  - [PyBer_Challenge.ipynb](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/PyBer_Challenge.ipynb) (Figs 5 and Table 1) 
 - Software: Jupyter Notebook
