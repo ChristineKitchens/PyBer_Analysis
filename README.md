@@ -21,7 +21,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 
     <Figcaption><i>Fig 2. % Total Rides by City Type</i></Figcaption>
 
-![Fig 2. % Total Rides by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/analysis/Fig6.png)
+![Fig 2. % Total Rides by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/339107124e8673aebc4ac6fa9da5cc547e1bbb09/analysis/Fig6.png)
 
 ### Drivers by City Type
 - A total of 2,973 PyBer drivers were registered during the analysis period.
@@ -30,7 +30,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 
     <Figcaption><i>Fig 3. % Total Drivers by City Type</i></Figcaption>
 
-![Fig 3. % Total Drivers by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/analysis/Fig7.png)
+![Fig 3. % Total Drivers by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/339107124e8673aebc4ac6fa9da5cc547e1bbb09/analysis/Fig7.png)
 
 ### Fares by City Type
 - PyBer collected a total of $63,538.64 in fares during the analysis period.
@@ -39,7 +39,7 @@ PyBer executives requested an exploratory analysis of rideshare data to help inf
 
     <Figcaption><i>Fig 4. % Total Fares by City Type</i></Figcaption>
 
-![Fig 4. % Total Fares by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/analysis/Fig5.png)
+![Fig 4. % Total Fares by City Type](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/339107124e8673aebc4ac6fa9da5cc547e1bbb09/analysis/Fig5.png)
 
 ### Average Fare per Rider/Driver 
 - The average fare per rider/driver by city type listed in Table 1. Script and dataframes used to calculate summary data can be found in the [jupyter notebook for the project](https://github.com/InRegards2Pluto/PyBer_Analysis/blob/a7592015695a4f36068f74bc70739af195ed18be/PyBer_Challenge.ipynb).
